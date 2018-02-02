@@ -1,0 +1,17 @@
+.mainwrapper{
+	background-color: lightgrey;
+}
+header{
+	background-color: blue;
+	color: white;
+}
+.maincontent{
+	background-color: green;
+}
+.hbk{
+	border:solid;
+}
+footer{
+	background-color: blue
+	color:white;
+}
